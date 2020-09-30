@@ -1,0 +1,10 @@
+print("向阳", end=" ")
+print("向阳", end=" ")
+print("向阳", end="")
+print("向阳", end="")
+print("向阳", end="\t")
+print("向阳", end="\t")
+print("向阳", end="\t")
+print("向阳", end="\n")
+print("向阳", end="\n")
+
